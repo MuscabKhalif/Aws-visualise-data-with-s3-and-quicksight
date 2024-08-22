@@ -3,6 +3,9 @@ Visualising Data with Amazon Quicksight![Screenshot 2024-08-07 at 21 51 00 copy]
 What is Linux ? 
 Linux is an open source operating system (OS). An operating system is the software that directly manages a system’s hardware and resources, like CPU, memory, and storage. The OS sits between applications and hardware and makes the connections between all of your software and the physical resources that do the work.
 Here are some Linux commands: 
+
+
+
 ls-	Lists files and directories in the current directory.
 cd - Changes the current directory.
 pwd -	Prints the current working directory.
