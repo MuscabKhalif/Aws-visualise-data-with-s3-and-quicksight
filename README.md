@@ -1,4 +1,8 @@
 # Aws-visualise-data-with-s3-and-quicksight
+
+Amazon QuickSight is a fully managed cloud-scale business intelligence service that is powered by machine learning and allows you to create data visualizations and dashboards for the people you work with, wherever they are. It's a competitor to business intelligence tools like Tableau and Microsoft's Power BI.
+
+
 Visualising Data with Amazon Quicksight![Screenshot 2024-08-07 at 21 51 00 copy](https://github.com/user-attachments/assets/32f2669d-6ebb-40bf-b951-aa5e3578db88)
 What is Linux ? 
 Linux is an open source operating system (OS). An operating system is the software that directly manages a system’s hardware and resources, like CPU, memory, and storage. The OS sits between applications and hardware and makes the connections between all of your software and the physical resources that do the work.
