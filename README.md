@@ -7,6 +7,26 @@ Visualising Data with Amazon Quicksight![Screenshot 2024-08-07 at 21 51 00 copy]
 What is Linux ? 
 Linux is an open source operating system (OS). An operating system is the software that directly manages a system’s hardware and resources, like CPU, memory, and storage. The OS sits between applications and hardware and makes the connections between all of your software and the physical resources that do the work.
 
+What is Bash scripting
+A bash script is a file containing a sequence of commands that are executed by the bash program line by line. It allows you to perform a series of actions, such as navigating to a specific directory, creating a folder, and launching a process using the command line.
+
+#!/bin/bash
+#Creates a new variable with a value of "Hello World"
+learningbash="Hello World"
+echo $learningbash
+
+The first line (/bin/bash) is used in every bash script. It instructs the operating system to use a bash interpreter as a command interpreter
+
+
+
+
+
+
+
+
+
+
+
 Here are some Linux commands: 
 
 
