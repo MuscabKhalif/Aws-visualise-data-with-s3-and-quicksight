@@ -7,8 +7,11 @@ Here are some Linux commands:
 
 
 ls-	Lists files and directories in the current directory.
+
 cd - Changes the current directory.
+
 pwd -	Prints the current working directory.
+
 mkdir -	Creates a new directory.
 rmdir -	Removes an empty directory.
 rm -	Removes files or directories.
