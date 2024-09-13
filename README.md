@@ -1,4 +1,5 @@
-AWS Visualize Data with S3 and QuickSight
+                                                               AWS Visualize Data with S3 and QuickSight
+
 Project Overview
 In this project, I utilized Amazon Web Services (AWS) to build a data visualization pipeline using Amazon S3 and Amazon QuickSight. The goal was to leverage AWS’s powerful cloud-based tools to store, manage, and visualize data effectively. This project showcases my ability to integrate cloud services to generate actionable insights from data.
 
@@ -20,9 +21,7 @@ Enhanced Data Handling Skills: Gained practical experience in managing and proce
 Advanced BI Tool Proficiency: Developed expertise in Amazon QuickSight, including its data visualization and dashboard capabilities. This experience is directly transferable to similar BI tools like Tableau and Power BI.
 End-to-End Solution Implementation: Demonstrated the ability to create a complete data pipeline from storage to visualization. This project highlights my capability to deliver data-driven insights through effective use of AWS services.
 Problem-Solving and Optimization: Encountered and resolved various challenges related to data integration and visualization, showcasing my problem-solving skills and ability to optimize workflows.
-Visual Example
-
-
+Visual Example ![image](https://github.com/user-attachments/assets/95aaccb2-8eab-4298-a4df-9146baa1e6ef)
 Key Takeaways for Recruiters
 Proficiency in AWS Services: Demonstrated hands-on experience with AWS S3 and QuickSight, essential for cloud-based data solutions.
 Data Visualization Skills: Proven ability to create meaningful data visualizations and dashboards, translating complex data into actionable insights.
