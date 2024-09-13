@@ -1,4 +1,4 @@
-                                                               AWS Visualize Data with S3 and QuickSight
+                                                AWS Visualize Data with S3 and QuickSight
 
 Project Overview
 In this project, I utilized Amazon Web Services (AWS) to build a data visualization pipeline using Amazon S3 and Amazon QuickSight. The goal was to leverage AWS’s powerful cloud-based tools to store, manage, and visualize data effectively. This project showcases my ability to integrate cloud services to generate actionable insights from data.
